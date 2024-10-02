@@ -197,7 +197,7 @@ git clone https://github.com/interlay/interbtc.git
 
 cd interbtc
 
-git checkout 1.25.3
+git checkout 1.25.4
 
 ./scripts/init.sh
 
